@@ -5,7 +5,7 @@ public class DeleteMe {
 	public static void main(String[] args) {
 		System.out.println("Test");
 		// 충돌 나자...
-		// AAAAAAA
+		// BBBBB
 	}
 
 }
